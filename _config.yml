@@ -4,6 +4,7 @@ position: Ph.D. Candidate
 affiliation: Institute of Software, Chinese Academy of Sciences
 affiliation_link: https://www.iscas.ac.cn/
 email: panhaolin21 (at) mails.ucas.ac.cn
+birth: 2001.01
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -14,8 +15,9 @@ canonical:
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=J2nN70YAAAAJ&hl=zh-CN&oi=ao
-cv_link:
-github_link:
+cv_link: ./resume.pdf
+github_link: https://github.com/Panhaolin2001
+wechat: ./Wechat.jpg
 linkedin:
 twitter:
 

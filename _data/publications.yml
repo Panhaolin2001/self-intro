@@ -20,6 +20,7 @@ main:
     conference_short: CGO
     conference: CGO 2025, 614-627.
     page: https://2025.cgo.org/details/cgo-2025-papers/48/Towards-Efficient-Compiler-Auto-tuning-Leveraging-Synergistic-Search-Spaces
+    code: https://dl.acm.org/do/10.5281/zenodo.14351920/full/
     image: ./CGO.jpg
 
   - title: "Compiler-R1: Towards Agentic Compiler Auto-Tuning with Reinforcement Learning"
@@ -28,7 +29,7 @@ main:
     conference: NeurIPS 2025.
     pdf: https://openreview.net/pdf/7b8e4f95272ab1e9e3900b30ef9647d058b6b034.pdf
     page: https://openreview.net/forum?id=tY8ctrD4W2
-    code: https://github.com/Panhaolin2001/Compiler-R1
+    code: https://github.com/Mind4Compiler/Compiler-R1
     image: ./NeurIPS.png
 
   - title: "Synergy-Guided Compiler Auto-Tuning of Nested LLVM Pass Pipelines"
@@ -52,6 +53,7 @@ main:
     conference_short: ASE
     conference: IEEE/ACM International Conference on Automated Software Engineering, 2025.
     page: https://conf.researchr.org/details/ase-2025/ase-2025-papers/186/HybridSIMD-A-Super-C-SIMD-Library-with-Integrated-Auto-tuning-Capabilities
+    code: https://github.com/Panhaolin2001/HybridSIMD/tree/ASE
     image: ./ASE.png
 
   - title: "Behavioral Embeddings of Programs: A Quasi-Dynamic Approach for Optimization Prediction"
