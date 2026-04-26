@@ -1,14 +1,14 @@
 # Basic Information
-title: Haolin Pan
-position: Researcher in AI for Compilers
+title: 潘浩林 | Haolin Pan
+position: Ph.D. Candidate
 affiliation: Institute of Software, Chinese Academy of Sciences
 affiliation_link: https://www.iscas.ac.cn/
-email: 
+email: panhaolin21 (at) mails.ucas.ac.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Haolin Pan, AI for Compiler, Compiler Auto-Tuning, SIMD Optimization, Program Representation, Compiler Technology
-description: Haolin Pan's academic homepage. Research interests include AI for compilers, compiler auto-tuning, SIMD optimization, program representation, and compiler technology.
+keywords: 潘浩林, Haolin Pan, AI Infra, AI for Compiler, Compiler Auto-Tuning, SIMD Optimization, Program Representation, Compiler Technology, LLVM, MLIR
+description: Haolin Pan's academic homepage. Research interests include AI infrastructure, compiler optimization, compiler auto-tuning, program representation learning, SIMD optimization, LLVM, and MLIR.
 canonical: 
 
 # Links 
@@ -21,7 +21,7 @@ twitter:
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./Me.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
