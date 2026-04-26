@@ -17,12 +17,12 @@ I work on building practical AI-for-compiler systems around LLVM / MLIR, includi
 
 ## News
 
-- 🎉 **CGO 2025:** Our first-author paper on synergy-guided compiler auto-tuning was accepted.
-- 🎉 **SEKE 2025:** Our first-author paper on SIMD library and compiler co-optimization was accepted.
-- 🎉 **NeurIPS 2025:** Our first-author paper **Compiler-R1** was accepted.
-- 🎉 **ASE 2025:** Our first-author paper **HybridSIMD** was accepted.
-- 🎉 **ICLR 2026:** Our first-author paper on behavioral program embeddings was accepted.
-- 🎉 **IEEE TMC:** Our paper **FlowXpert** was accepted by IEEE Transactions on Mobile Computing.
+- 🎉 **ICLR 2026:** First-author paper on behavioral program embeddings was accepted.
+- 🎉 **IEEE TMC:** Paper **FlowXpert** was accepted by IEEE Transactions on Mobile Computing.
+- 🎉 **ASE 2025:** First-author paper **HybridSIMD** was accepted.
+- 🎉 **NeurIPS 2025:** First-author paper **Compiler-R1** was accepted.
+- 🎉 **SEKE 2025:** First-author paper on SIMD library and compiler co-optimization was accepted.
+- 🎉 **CGO 2025:** First-author paper on synergy-guided compiler auto-tuning was accepted.
 
 {% include_relative _includes/publications.md %}
 
