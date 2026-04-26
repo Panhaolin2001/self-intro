@@ -4,53 +4,84 @@ main:
     authors: C. Zha, <strong>H. Pan</strong>, B. Bai, J. Wu, R. Zhang
     conference_short: TMC
     conference: IEEE Transactions on Mobile Computing, 2026.
+    page: https://doi.org/10.1109/TMC.2026.3651574
+    image: ./TMC.jpg
 
   - title: "ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization"
     authors: <strong>H. Pan</strong>, L. Huang, J. Dong, M. Xing, Y. Wu
     conference_short: arXiv
     conference: arXiv preprint arXiv:2602.00087, 2026.
+    pdf: https://arxiv.org/pdf/2602.00087
+    page: https://arxiv.org/abs/2602.00087
+    image: ./ECCO.png
 
   - title: "Towards Efficient Compiler Auto-Tuning: Leveraging Synergistic Search Spaces"
     authors: <strong>H. Pan</strong>, Y. Wei, M. Xing, Y. Wu, C. Zhao
     conference_short: CGO
     conference: CGO 2025, 614-627.
+    page: https://2025.cgo.org/details/cgo-2025-papers/48/Towards-Efficient-Compiler-Auto-tuning-Leveraging-Synergistic-Search-Spaces
+    image: ./CGO.jpg
 
   - title: "Compiler-R1: Towards Agentic Compiler Auto-Tuning with Reinforcement Learning"
     authors: <strong>H. Pan</strong>, H. Lin, H. Luo, Y. Liu, K. Yao, L. Zhang, M. Xing, Y. Wu
     conference_short: NeurIPS
     conference: NeurIPS 2025.
+    pdf: https://openreview.net/pdf/7b8e4f95272ab1e9e3900b30ef9647d058b6b034.pdf
+    page: https://openreview.net/forum?id=tY8ctrD4W2
+    code: https://github.com/Panhaolin2001/Compiler-R1
+    image: ./NeurIPS.png
 
   - title: "Synergy-Guided Compiler Auto-Tuning of Nested LLVM Pass Pipelines"
     authors: <strong>H. Pan</strong>, J. Dong, M. Xing, Y. Wu
     conference_short: arXiv
     conference: arXiv preprint arXiv:2510.13184, 2025.
+    pdf: https://arxiv.org/pdf/2510.13184
+    page: https://arxiv.org/abs/2510.13184
+    image: ./LLVMNPM.jpg
 
   - title: "A Hybrid, Knowledge-Guided Evolutionary Framework for Personalized Compiler Auto-Tuning"
     authors: <strong>H. Pan</strong>, H. Zhang, M. Xing, Y. Wu
     conference_short: arXiv
     conference: arXiv preprint arXiv:2510.14292, 2025.
+    pdf: https://arxiv.org/pdf/2510.14292
+    page: https://arxiv.org/abs/2510.14292
+    image: ./GRACE.png
 
   - title: "GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning"
     authors: <strong>H. Pan</strong>, C. Zha, J. Dong, M. Xing, Y. Wu
     conference_short: arXiv
     conference: arXiv preprint arXiv:2510.13176, 2025.
+    pdf: https://arxiv.org/pdf/2510.13176
+    page: https://arxiv.org/abs/2510.13176
+    image: ./GRACE.png
 
   - title: "AwareCompiler: Agentic Context-Aware Compiler Optimization via a Synergistic Knowledge-Data Driven Framework"
     authors: H. Lin, <strong>H. Pan</strong>, H. Luo, Y. Li, K. Yao, L. Zhang, M. Xing, Y. Wu
     conference_short: arXiv
     conference: arXiv preprint arXiv:2510.11759, 2025.
+    pdf: https://arxiv.org/pdf/2510.11759
+    page: https://arxiv.org/abs/2510.11759
+    code: https://github.com/LHY-24/AwareCompiler
+    image: ./NeurIPS.png
 
   - title: "HybridSIMD: A Super C++ SIMD Library with Integrated Auto-Tuning Capabilities"
     authors: <strong>H. Pan</strong>, X. Zhou, M. Xing, Y. Wu
     conference_short: ASE
     conference: IEEE/ACM International Conference on Automated Software Engineering, 2025.
+    page: https://conf.researchr.org/details/ase-2025/ase-2025-papers/186/HybridSIMD-A-Super-C-SIMD-Library-with-Integrated-Auto-tuning-Capabilities
+    image: ./ASE.png
 
   - title: "Behavioral Embeddings of Programs: A Quasi-Dynamic Approach for Optimization Prediction"
     authors: <strong>H. Pan</strong>, J. Dong, H. Zhang, H. Lin, M. Xing, Y. Wu
     conference_short: ICLR
     conference: ICLR 2026.
+    pdf: https://arxiv.org/pdf/2510.13158
+    page: https://openreview.net/forum?id=QDmoLEJifR
+    image: ./ICLR.png
 
   - title: "Navigating the SIMD Optimization Maze: A Reinforcement Learning Approach to Library and Compiler Co-Optimization"
     authors: <strong>H. Pan</strong>, Y. Zhang, M. Xing, Y. Wu
     conference_short: SEKE
     conference: SEKE 2025.
+    pdf: https://ksiresearch.org/seke/seke25paper/paper076.pdf
+    image: ./SEKE.png
