@@ -39,14 +39,6 @@ main:
     page: https://arxiv.org/abs/2510.13184
     image: ./LLVMNPM.jpg
 
-  - title: "A Hybrid, Knowledge-Guided Evolutionary Framework for Personalized Compiler Auto-Tuning"
-    authors: <strong>H. Pan</strong>, H. Zhang, M. Xing, Y. Wu
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2510.14292, 2025.
-    pdf: https://arxiv.org/pdf/2510.14292
-    page: https://arxiv.org/abs/2510.14292
-    image: ./GRACE.png
-
   - title: "GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning"
     authors: <strong>H. Pan</strong>, C. Zha, J. Dong, M. Xing, Y. Wu
     conference_short: arXiv
@@ -54,15 +46,6 @@ main:
     pdf: https://arxiv.org/pdf/2510.13176
     page: https://arxiv.org/abs/2510.13176
     image: ./GRACE.png
-
-  - title: "AwareCompiler: Agentic Context-Aware Compiler Optimization via a Synergistic Knowledge-Data Driven Framework"
-    authors: H. Lin, <strong>H. Pan</strong>, H. Luo, Y. Li, K. Yao, L. Zhang, M. Xing, Y. Wu
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2510.11759, 2025.
-    pdf: https://arxiv.org/pdf/2510.11759
-    page: https://arxiv.org/abs/2510.11759
-    code: https://github.com/LHY-24/AwareCompiler
-    image: ./NeurIPS.png
 
   - title: "HybridSIMD: A Super C++ SIMD Library with Integrated Auto-Tuning Capabilities"
     authors: <strong>H. Pan</strong>, X. Zhou, M. Xing, Y. Wu

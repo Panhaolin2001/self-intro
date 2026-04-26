@@ -11,7 +11,7 @@
     {% if link.image %} 
     {% assign paper_url = link.pdf | default: link.page %}
     {% if paper_url %}<a href="{{ paper_url }}" target="_blank" rel="noopener">{% endif %}
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="{{ link.title }}" style="width:100%;height:auto;">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="{{ link.title }}">
     {% if paper_url %}</a>{% endif %}
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
