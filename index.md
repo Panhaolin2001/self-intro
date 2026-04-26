@@ -15,12 +15,14 @@ I work on building practical AI-for-compiler systems around LLVM / MLIR, includi
 - **2016.09 - 2020.06**, B.Eng. in Computer Science and Technology, Zhengzhou University.
 - **Research topics:** AI Infra, AI for Compiler, LLVM / MLIR optimization, compiler auto-tuning, program representation learning, reinforcement-learning-based optimization, and SIMD performance engineering.
 
-## Research Highlights
+## News
 
-- **Compiler-R1, NeurIPS 2025:** an agentic reinforcement-learning framework for compiler auto-tuning, with high-quality reasoning/tool-interaction data and a two-stage SFT + RL training pipeline.
-- **Behavioral-PQ, ICLR 2026:** a quasi-dynamic program representation framework that models how programs respond to optimization probes, improving pass prediction and optimization-benefit prediction.
-- **Synergy-Guided Auto-Tuning, CGO 2025:** a compiler auto-tuning method based on synergistic pass-pair modeling and compact search-space construction for efficient LLVM pass optimization.
-- **HybridSIMD, ASE 2025:** a unified and auto-tunable C++ SIMD library design for cross-library and compiler-level co-optimization.
+- 🎉 **CGO 2025:** Our first-author paper on synergy-guided compiler auto-tuning was accepted.
+- 🎉 **SEKE 2025:** Our first-author paper on SIMD library and compiler co-optimization was accepted.
+- 🎉 **NeurIPS 2025:** Our first-author paper **Compiler-R1** was accepted.
+- 🎉 **ASE 2025:** Our first-author paper **HybridSIMD** was accepted.
+- 🎉 **ICLR 2026:** Our first-author paper on behavioral program embeddings was accepted.
+- 🎉 **IEEE TMC:** Our paper **FlowXpert** was accepted by IEEE Transactions on Mobile Computing.
 
 {% include_relative _includes/publications.md %}
 
