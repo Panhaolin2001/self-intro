@@ -17,6 +17,7 @@ I work on building practical AI-for-compiler systems around LLVM / MLIR, includi
 
 ## News
 
+- 🎉 **ICML 2026:** First-author paper **ECCO** was accepted.
 - 🎉 **ICLR 2026:** First-author paper on behavioral program embeddings was accepted.
 - 🎉 **IEEE TMC:** Paper **FlowXpert** was accepted by IEEE Transactions on Mobile Computing.
 - 🎉 **ASE 2025:** First-author paper **HybridSIMD** was accepted.

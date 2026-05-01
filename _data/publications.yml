@@ -9,8 +9,8 @@ main:
 
   - title: "ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization"
     authors: <strong>H. Pan</strong>, L. Huang, J. Dong, M. Xing, Y. Wu
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2602.00087, 2026.
+    conference_short: ICML
+    conference: International Conference on Machine Learning (ICML), 2026.
     pdf: https://arxiv.org/pdf/2602.00087
     page: https://arxiv.org/abs/2602.00087
     image: ./ECCO.png
