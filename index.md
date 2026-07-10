@@ -4,7 +4,7 @@ layout: homepage
 
 ## About
 
-I am 潘浩林 (Haolin Pan), a Ph.D. candidate at the Institute of Software, Chinese Academy of Sciences. My research focuses on **AI Infra**, **compiler optimization**, **compiler auto-tuning**, **program representation learning**, and **SIMD optimization**.
+I am 潘浩林 (Haolin Pan), a Ph.D. candidate at the Institute of Software, Chinese Academy of Sciences. My research focuses on **AI for Compiler**, **compiler auto-tuning**, **program representation learning**, and **SIMD optimization**.
 
 I work on building practical AI-for-compiler systems around LLVM / MLIR, including pass-sequence optimization, LLM/RL-driven compiler tuning, quasi-dynamic program representations, and high-performance SIMD library design. My recent work has appeared at NeurIPS, ICLR, ASE, CGO, SEKE, and IEEE TMC. For the latest citation record, please see my [Google Scholar profile](https://scholar.google.com/citations?user=J2nN70YAAAAJ&hl=zh-CN&oi=ao).
 
@@ -17,6 +17,7 @@ I work on building practical AI-for-compiler systems around LLVM / MLIR, includi
 
 ## News
 
+- 🎉 **CAS President’s Award:** Received the Chinese Academy of Sciences President’s Award (2026.06).
 - 🎉 **ICML 2026:** First-author paper **ECCO** was accepted.
 - 🎉 **ICLR 2026:** First-author paper on behavioral program embeddings was accepted.
 - 🎉 **IEEE TMC:** Paper **FlowXpert** was accepted by IEEE Transactions on Mobile Computing.
